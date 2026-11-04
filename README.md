@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Sanvi-ov/Leetcode/tree/master/0412-fizz-buzz) |
+| [1518-water-bottles](https://github.com/Sanvi-ov/Leetcode/tree/master/1518-water-bottles) |
 ## String
 |  |
 | ------- |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Sanvi-ov/Leetcode/tree/master/0412-fizz-buzz) |
+| [1518-water-bottles](https://github.com/Sanvi-ov/Leetcode/tree/master/1518-water-bottles) |
 ## Array
 |  |
 | ------- |
